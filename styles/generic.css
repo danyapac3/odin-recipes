@@ -2,6 +2,7 @@ body {
   background-color: #fafafa;
   color: #363636;
   font-family: "Lucida Console", "Courier New";
+  margin: 20px;
 }
 
 li, p {
